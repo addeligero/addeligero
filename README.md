@@ -1,68 +1,67 @@
 <h1 align="center">Hello, I'm Adrian! 👋</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=addeligero&show_icons=true)
+<p align="center">
+  <a href="#">
+    <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Happy+to+See+You+Here+😀;This+Is+My+TechStack+💻;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞">
+  </a>
+</p>
 
-
+---
 
 <p align="center">
   I am a passionate Full-Stack Developer from the Philippines with a love for building efficient, scalable, and user-friendly applications. With a solid background in various programming languages and tools, I enjoy transforming ideas into reality through code. Always eager to learn new technologies and take on exciting challenges in the world of software development.
 </p>
 
+<p align="center">
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs,c,java,html,css,javascript,vite,mysql,jquery,postgres,php,laravel,postman,react,sass,ps,stackoverflow,git&perline=9" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Statistics
+
+<div align="center">
+  <img alt="my stats" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addeligero&layout=compact"/>
+  <img alt="my stats" width="47%"  src="https://github-readme-stats.vercel.app/api?username=addeligero&&show_icons=true&bg_color=00000000" />
+</div>
+
 ---
 
 ### 🌐 Connect with Me
 
-Feel free to reach out or connect with me through the following platforms:
+Feel free to reach out to me via email:
 
 - 📧 **Email:** [adriandeligero.1030@gmail.com](mailto:adriandeligero.1030@gmail.com)
 
 ---
 
-### 🛠️ Languages and Tools
+### 🎯 About Me
 
-Here are some of the technologies and tools I work with:
+- 😄 Pronouns: **He/His**
+- 🌱 I’m currently working on **Auto-Solutions**
+- 🏆 I'm Interested in making the world better by **PRs**
+- 👨‍🎓 Studying **Information Technology**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: **adriandeligero.1030@gmail.com**
 
-<p align="left"> 
- 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-</p>
 
 ---
 
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </p>
+
+---
+
+![Bottom_down](https://github.com/centmarde/centmarde/assets/159101935/aecdf82d-fe75-4add-9b17-9e0d5961fd8c)
