@@ -16,8 +16,6 @@
 Feel free to reach out or connect with me through the following platforms:
 
 - 📧 **Email:** [adriandeligero.1030@gmail.com](mailto:adriandeligero.1030@gmail.com)
-- 💼 [LinkedIn](#) <!-- Insert your LinkedIn profile URL here -->
-- 🐦 [Twitter](#) <!-- Insert your Twitter profile URL here -->
 
 ---
 
@@ -26,9 +24,9 @@ Feel free to reach out or connect with me through the following platforms:
 Here are some of the technologies and tools I work with:
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+ 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
+  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
