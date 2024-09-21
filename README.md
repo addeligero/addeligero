@@ -1,12 +1,6 @@
 <h1 align="center">Hello, I'm Adrian! 👋</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-<p align="center">
-  <a href="#">
-    <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Happy+to+See+You+Here+😀;This+Is+My+TechStack+💻;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞">
-  </a>
-</p>
-
 ---
 
 <p align="center">
@@ -21,7 +15,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind,php,postgres,pgadmin,photoshop,nodejs,postman,java,python,c,html,css,javascript&perline=9" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind,php,postgres,photoshop,nodejs,postman,java,python,c,html,css,javascript&perline=9" />
   </a>
 </p>
 
@@ -56,4 +50,9 @@ Feel free to reach out to me via email:
 
 ---
 
-![Bottom_down](https://github.com/centmarde/centmarde/assets/159101935/aecdf82d-fe75-4add-9b17-9e0d5961fd8c)
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kapnobatai137/kapnobatai137/master/assets/wave.svg" alt="Wave" width="100%" height="150px"/>
+</p>
+
