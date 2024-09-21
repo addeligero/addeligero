@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Adrian! 👋</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
-<div align="center"
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-<>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=addeligero&show_icons=true)
+
+
 
 <p align="center">
   I am a passionate Full-Stack Developer from the Philippines with a love for building efficient, scalable, and user-friendly applications. With a solid background in various programming languages and tools, I enjoy transforming ideas into reality through code. Always eager to learn new technologies and take on exciting challenges in the world of software development.
