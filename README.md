@@ -13,9 +13,7 @@
   I am a passionate Full-Stack Developer from the Philippines with a love for building efficient, scalable, and user-friendly applications. With a solid background in various programming languages and tools, I enjoy transforming ideas into reality through code. Always eager to learn new technologies and take on exciting challenges in the world of software development.
 </p>
 
-<p align="center">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-</p>
+
 
 ---
 
@@ -23,7 +21,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,c,java,html,css,javascript,vite,mysql,jquery,postgres,php,laravel,postman,react,sass,ps,stackoverflow,git&perline=9" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind,php,postgres,pgadmin,photoshop,nodejs,postman,java,python,c,html,css,javascript&perline=9" />
   </a>
 </p>
 
@@ -32,7 +30,6 @@
 ### 🏆 GitHub Statistics
 
 <div align="center">
-  <img alt="my stats" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addeligero&layout=compact"/>
   <img alt="my stats" width="47%"  src="https://github-readme-stats.vercel.app/api?username=addeligero&&show_icons=true&bg_color=00000000" />
 </div>
 
@@ -56,11 +53,6 @@ Feel free to reach out to me via email:
 - 📫 How to reach me: **adriandeligero.1030@gmail.com**
 
 
----
-
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
-</p>
 
 ---
 
