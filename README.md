@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Adrian! 👋</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63869850/123549713-5c96de00-d78c-11eb-98a3-4ef9c1d68dcb.png" width="300"/>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ---
 
@@ -15,9 +13,11 @@
 
 ### 🌐 Connect with Me
 
-Feel free to reach out to me via email:
+Feel free to reach out or connect with me through the following platforms:
 
 - 📧 **Email:** [adriandeligero.1030@gmail.com](mailto:adriandeligero.1030@gmail.com)
+- 💼 [LinkedIn](#) <!-- Insert your LinkedIn profile URL here -->
+- 🐦 [Twitter](#) <!-- Insert your Twitter profile URL here -->
 
 ---
 
@@ -38,11 +38,17 @@ Here are some of the technologies and tools I work with:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
