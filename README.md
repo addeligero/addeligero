@@ -1,4 +1,4 @@
-<h1 align="center">Every line of code drives innovation and every challenge fuels my growth to create something extraordinary <img src="https://cdn-icons-png.flaticon.com/512/3445/3445749.png" alt="Innovation Logo" width="30"/></h1>
+<h1 align="center">Every line of code drives innovation and creation. <img src="https://cdn-icons-png.flaticon.com/512/3445/3445749.png" alt="Innovation Logo" width="30"/></h1>
 
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
@@ -48,10 +48,4 @@ Feel free to reach out to me via email:
 
 
 ---
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kapnobatai137/kapnobatai137/master/assets/wave.svg" alt="Wave" width="100%" height="150px"/>
-</p>
 
