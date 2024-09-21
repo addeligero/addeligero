@@ -1,4 +1,5 @@
-<h1 align="center">Hello, I'm Adrian! 👋</h1>
+<h1 align="center">Every line of code drives innovation and every challenge fuels my growth to create something extraordinary <img src="https://cdn-icons-png.flaticon.com/512/3445/3445749.png" alt="Innovation Logo" width="30"/></h1>
+
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 ---
@@ -40,10 +41,8 @@ Feel free to reach out to me via email:
 ### 🎯 About Me
 
 - 😄 Pronouns: **He/His**
-- 🌱 I’m currently working on **Auto-Solutions**
-- 🏆 I'm Interested in making the world better by **PRs**
 - 👨‍🎓 Studying **Information Technology**
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 - 📫 How to reach me: **adriandeligero.1030@gmail.com**
 
 
