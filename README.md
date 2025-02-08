@@ -1,6 +1,6 @@
 <h1 align="center">Every line of code drives innovation and creation. <img src="https://cdn-icons-png.flaticon.com/512/3445/3445749.png" alt="Innovation Logo" width="30"/></h1>
 
-<h3 align="center">Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Lifelong Learner</h3>
 
 
 ---
