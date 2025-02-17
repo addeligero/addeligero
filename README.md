@@ -13,15 +13,7 @@
   </a>
 </p>
 
----
 
-### 🏆 GitHub Statistics
-
-<div align="center">
-  <img alt="my stats" width="47%"  src="https://github-readme-stats.vercel.app/api?username=addeligero&&show_icons=true&bg_color=00000000" />
-</div>
-
----
 
 ### 🌐 Connect with Me
 
