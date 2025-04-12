@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind,php,postgres,Typescript,nodejs,postman,java,python,c,html,css,javascript&perline=9" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind,php,postgres,typescript,nodejs,postman,java,python,c,html,css,javascript&perline=9" />
   </a>
 </p>
 
